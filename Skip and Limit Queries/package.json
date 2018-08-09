@@ -1,0 +1,14 @@
+{
+  "name": "skip-limit",
+  "version": "1.0.0",
+  "description": "skip and limit queries",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodemon --exec 'mocha -R min'"
+  },
+  "author": "Engin Bozkurt",
+  "license": "ISC"
+}
